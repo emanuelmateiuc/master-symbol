@@ -39,6 +39,14 @@
     {
       "class": "text",
       "id": "3D32CEFB-1821-4786-BBF4-62C6A250F888"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4E3B460E-6F83-4892-AC27-040720EFB4A6"
+    },
+    {
+      "class": "text",
+      "id": "E67A6F26-127A-4DEE-8115-AA98A1CCD176"
     }
   ],
   "name": "Welcome world",
