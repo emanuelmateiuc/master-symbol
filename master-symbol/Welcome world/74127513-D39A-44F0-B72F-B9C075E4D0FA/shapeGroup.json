@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "BAD34A07-6F1F-4EDE-B4E6-17AD7B7EE05F",
+  "do_objectID": "74127513-D39A-44F0-B72F-B9C075E4D0FA",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "D85E2D6D-309E-40F2-BE5A-22E7C3CEC2FA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,6 +15,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "4331C131-A71A-4E49-92FF-57F6D74DD303",
     "height": 222,
     "width": 233,
     "x": 156,
@@ -29,7 +31,7 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "0C7D8E0F-B09A-46CB-9425-DA2F17E82D6F"
+      "id": "E88EE78D-4B99-427B-AE98-F14BBC5DB1F0"
     }
   ],
   "name": "Container",
@@ -56,6 +58,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "C46EFF96-33EE-4428-A864-BA8ADA68C522",
     "endDecorationType": 0,
     "fills": [
       {
@@ -63,9 +66,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
+          "blue": 0.2033222853535354,
           "green": 0.2033222853535354,
-          "red": 0.9526431385655126
+          "red": 1
         },
         "fillType": 0,
         "isEnabled": true,
