@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4392156862745098,
-            "green": 0.4392156862745098,
-            "red": 0.4392156862745098
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -21,18 +21,19 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 11,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Hello World"
+    "string": "Un text deasupra"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "3D32CEFB-1821-4786-BBF4-62C6A250F888",
+  "do_objectID": "2EB8D6B6-4D8F-49CD-9972-C62DC94B9757",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,18 +48,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 104,
-    "x": 221,
-    "y": 151
+    "width": 153,
+    "x": 111,
+    "y": 25
   },
-  "glyphBounds": "{{1, 4}, {101, 16}}",
+  "glyphBounds": "{{1, 4}, {151, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Hello World",
+  "name": "Un text deasupra",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,9 +76,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4392156862745098,
-          "green": 0.4392156862745098,
-          "red": 0.4392156862745098
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -87,7 +88,8 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
