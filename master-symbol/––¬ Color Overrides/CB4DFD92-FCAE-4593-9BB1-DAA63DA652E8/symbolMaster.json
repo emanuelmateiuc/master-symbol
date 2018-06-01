@@ -1,6 +1,14 @@
 {
-  "_class": "page",
-  "do_objectID": "f9dbfd70-5f95-11e8-919d-5f180a7ddcba",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 8,
+  "do_objectID": "CB4DFD92-FCAE-4593-9BB1-DAA63DA652E8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,57 +21,57 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 91,
+    "width": 91,
     "x": 0,
-    "y": 0
+    "y": 955
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "74127513-D39A-44F0-B72F-B9C075E4D0FA"
-    },
-    {
-      "class": "text",
-      "id": "1571BAF0-75C2-4146-8517-FB1E000870C5"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "E1E6B3A4-95E4-44CB-B35A-BF78C22416EA"
-    },
-    {
-      "class": "text",
-      "id": "0FCF2919-EAF7-410A-AC02-7DE2300889D0"
+      "id": "9F63826F-6EE8-462F-A841-26C9DDF58888"
     }
   ],
-  "name": "Welcome world",
-  "nameIsFixed": true,
+  "name": "…/Texture/Fill/White",
+  "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
+  "symbolID": "86D6C7C9-3F0B-4163-8110-916CC4295329",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }

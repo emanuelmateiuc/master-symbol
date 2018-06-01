@@ -9,35 +9,33 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0.1333333333333333,
+            "green": 0.1333333333333333,
+            "red": 0.1333333333333333
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Helvetica",
-              "size": 20
+              "name": "Helvetica-Bold",
+              "size": 22
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 2
+            "_class": "paragraphStyle"
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 7,
         "location": 0
       }
     ],
-    "string": "GALBEN"
+    "string": "Welcom!"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "do_objectID": "0FCF2919-EAF7-410A-AC02-7DE2300889D0",
+  "do_objectID": "2C2C0607-1D04-4962-911B-B19860FB932F",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "68BD8AC9-C413-4BA0-ADA1-D489531356E9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -48,20 +46,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "0F96F8C0-D429-4106-87EC-8D0B614ECE10",
-    "height": 24,
-    "width": 82,
-    "x": 576,
-    "y": 152
+    "height": 26,
+    "width": 92,
+    "x": 20,
+    "y": 20
   },
-  "glyphBounds": "{{0, 4}, {80, 16}}",
+  "glyphBounds": "{{0, 5}, {90, 17}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "GALBEN",
+  "name": "Welcom!",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -69,31 +66,28 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "957B210D-75EF-447C-9356-19D78E235C68",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "605BAE5C-F235-48F4-8FE1-539B14913B4A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.1333333333333333,
+          "green": 0.1333333333333333,
+          "red": 0.1333333333333333
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Helvetica",
-            "size": 20
+            "name": "Helvetica-Bold",
+            "size": 22
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 2
+          "_class": "paragraphStyle"
         },
         "textStyleVerticalAlignmentKey": 0
       },

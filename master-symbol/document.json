@@ -33,7 +33,9 @@
     "version": 103
   },
   "pages": [
-    "Welcome world"
+    "Welcome",
+    "• Color",
+    "––¬ Color Overrides"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

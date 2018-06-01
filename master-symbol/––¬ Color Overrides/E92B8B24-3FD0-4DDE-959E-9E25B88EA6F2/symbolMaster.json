@@ -1,0 +1,84 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "16AD0233-DCE4-4CC0-9238-336B8DB09857",
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 200,
+  "do_objectID": "E92B8B24-3FD0-4DDE-959E-9E25B88EA6F2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E64AB66-A53F-4AAF-9876-40B396BF1478",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "668EC9EC-3746-4597-B9EF-A790FF03D7B0",
+    "height": 91,
+    "width": 91,
+    "x": 0,
+    "y": 764
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "755C596B-02C9-4763-B74F-DCC87E9987C0",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E48AFA4C-3E58-4C56-924A-3D7F88C3A03F"
+    }
+  ],
+  "name": "…/Texture/Fill/Secondary",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "378B9574-22EC-4E7B-AAFC-DCF847C6FD8D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B8FFE67F-CEE6-49B0-8B8B-2D2C185D0CDA",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "16462ECC-311E-4622-911D-35FA699924B7",
+    "guides": [
+    ]
+  }
+}
